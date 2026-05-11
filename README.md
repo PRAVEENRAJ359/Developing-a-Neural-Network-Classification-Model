@@ -202,4 +202,4 @@ Include your sample input and output here
 
 
 ## RESULT
-Include your result here
+Thus, the Neural Network Classification Model was successfully developed and customer segments were predicted with good accuracy.
